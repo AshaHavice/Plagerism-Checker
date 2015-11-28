@@ -10,6 +10,5 @@ To copy someone’s idea and paste then on your own document concept of Plagiari
 <br>5)	PlagerismChecker
 
 These tools are very helpful for students and teachers to detect plagiarism report. 
-
 Asha Havice - HR at <a href="http://www.onlinedimes.com/best-plagiarism-checker/"copyscape</a>
 
